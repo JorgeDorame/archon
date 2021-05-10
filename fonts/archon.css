@@ -1,9 +1,9 @@
 @font-face {
   font-family: 'Archon Code 39 Barcode';
-  src: url('Archon-Code-39-Barcode.eot');
-  src: url('Archon-Code-39-Barcode.eot?#iefix') format('embedded-opentype'),
-    url('Archon-Code-39-Barcode.woff') format('woff'),
-    url('Archon-Code-39-Barcode.woff2') format('woff2'),
-    url('Archon-Code-39-Barcode.ttf') format('truetype'),
-    url('Archon-Code-39-Barcode.svg#Archon Code 39 Barcode') format('svg');
+  src: url('https://raw.githubusercontent.com/JorgeDorame/archon/main/Archon-Code-39-Barcode.eot');
+  src: url('https://raw.githubusercontent.com/JorgeDorame/archon/main/Archon-Code-39-Barcode.eot?#iefix') format('embedded-opentype'),
+    url('https://raw.githubusercontent.com/JorgeDorame/archon/main/Archon-Code-39-Barcode.woff') format('woff'),
+    url('https://raw.githubusercontent.com/JorgeDorame/archon/main/Archon-Code-39-Barcode.woff2') format('woff2'),
+    url('https://raw.githubusercontent.com/JorgeDorame/archon/main/Archon-Code-39-Barcode.ttf') format('truetype'),
+    url('https://raw.githubusercontent.com/JorgeDorame/archon/main/Archon-Code-39-Barcode.svg#Archon Code 39 Barcode') format('svg');
 }
