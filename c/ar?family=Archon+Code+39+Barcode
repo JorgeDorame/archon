@@ -1,9 +1,0 @@
-@font-face {
-  font-family: 'Archon Code 39 Barcode';
-  src: url('../assets/fonts/Archon-Code-39-Barcode.eot');
-  src: url('../assets/fonts/Archon-Code-39-Barcode.eot?#iefix') format('embedded-opentype'),
-    url('../assets/fonts/Archon-Code-39-Barcode.woff') format('woff'),
-    url('../assets/fonts/Archon-Code-39-Barcode.woff2') format('woff2'),
-    url('../assets/fonts/Archon-Code-39-Barcode.ttf') format('truetype'),
-    url('../assets/fonts/Archon-Code-39-Barcode.svg#Archon Code 39 Barcode') format('svg');
-}
